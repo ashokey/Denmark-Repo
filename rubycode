@@ -11,3 +11,7 @@
 	  adding feature 
 	  Add = Add.max{}
 	  #
+# Adding key feature to the code : 
+func = max(i) ++
+return func(i)
+# End of the function
