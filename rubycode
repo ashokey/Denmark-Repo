@@ -7,3 +7,7 @@
 	  end
 	  find_missing([2,4,6,10])
 	  # 
+Adding variables to the code : 
+var : var1, var2 ;
+var c = file.var 
+# 
