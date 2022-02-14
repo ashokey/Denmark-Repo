@@ -6,4 +6,8 @@
 	  missing_between.first + sequence
 	  end
 	  find_missing([2,4,6,10])
-	  # 
+	  #
+
+	  adding feature 
+	  Add = Add.max{}
+	  #
